@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "5a4619bc25f72010",
+    "type": "split",
+    "children": [
+      {
+        "id": "eda961d61e3075f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd1feeaf10b3c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 Лекция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8 Лекция"
+            }
+          },
+          {
+            "id": "4fc0ced2f10e6d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекция 17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 17"
+            }
+          },
+          {
+            "id": "aaed881d4adb30d6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.5"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fb4549c106745ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaff70b1a6455253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e3e4cf0da6420d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "231443b5f6ea05e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "2271ba3f72fea60f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "52a54224f80229f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce598afcdb3ef47b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8273f20dbd3aaa88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 лекция.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 1 лекция"
+            }
+          },
+          {
+            "id": "c7a23ad330fd7228",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 лекция.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 1 лекция"
+            }
+          },
+          {
+            "id": "8b10e64743fd1502",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3444717899845c28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 лекция.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 1 лекция"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "aaed881d4adb30d6",
+  "lastOpenFiles": [
+    "8 Лекция.md",
+    "7 Лекция.md",
+    "6 Лекция.md",
+    "5 Лекция.md",
+    "10 Лекция.md",
+    "2 Лекция.md",
+    "3 Лекция.md",
+    "4 Лекция.md",
+    "9 Лекция.md",
+    "11 Лекция.md",
+    "12 Лекция.md",
+    "13 Лекция.md",
+    "Лекция 17.md",
+    "17 Лекция.md",
+    "18 Лекция.md",
+    "Pasted image 20251117121311.png",
+    "2025-12-21.md",
+    "Лекция 19.md",
+    "16 Лекция.md",
+    "15 Лекция.md",
+    "14 Лекция.md",
+    "1 Практика.md",
+    "Дополнительное 1.md",
+    "Дополнительно 2.md",
+    "Коллоквиум.md",
+    "Добро пожаловать.md"
+  ]
+}
