@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/dm test.md",
+                "file": "math/Алгебра и ТензАн/Лекция 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dm test"
+              "title": "Лекция 1"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -174,22 +174,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "3cb97bb537841f93",
   "lastOpenFiles": [
-    "Computer Vision/4 Лекция.md",
     "math/Алгебра и ТензАн/Лекция 7.md",
+    "math/dm test.md",
+    "Computer Vision/4 Лекция.md",
     "math/Алгебра и ТензАн/Лекция 1.md",
     "math/Алгебра и ТензАн",
-    "math/dm test.md",
     "math",
     "Mathematics/Алгебра и ТензАн/Лекция 7.md",
     "Mathematics/Алгебра и ТензАн/Лекция 1.md",
