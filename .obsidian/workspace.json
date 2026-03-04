@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "a56f8d3870f817a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c1c46511f453d88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cb97bb537841f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math/dm test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dm test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22424146eaa69e2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "238ebaf39a685ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e48d046707cb5252",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d96ae122a2e5d128",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba20c0137689d0e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a66dd55a989c1831",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b5a90e6c04ac875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ba4dc303eb8d559",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Vision/4 Лекция.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4 Лекция"
+            }
+          },
+          {
+            "id": "3b2e575d1a9098bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Vision/4 Лекция.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4 Лекция"
+            }
+          },
+          {
+            "id": "1d25315426e75281",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "edd324e0b46b0ccc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0432e8e7eeb6ac50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Vision/4 Лекция.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4 Лекция"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3cb97bb537841f93",
+  "lastOpenFiles": [
+    "Computer Vision/4 Лекция.md",
+    "math/Алгебра и ТензАн/Лекция 7.md",
+    "math/Алгебра и ТензАн/Лекция 1.md",
+    "math/Алгебра и ТензАн",
+    "math/dm test.md",
+    "math",
+    "Mathematics/Алгебра и ТензАн/Лекция 7.md",
+    "Mathematics/Алгебра и ТензАн/Лекция 1.md",
+    "Mathematics/Алгебра и ТензАн",
+    "Mathematics/dm test.md",
+    "Mathematics/math/Алгебра и ТензАн/Лекция 7.md",
+    "Mathematics/math/Алгебра и ТензАн/Лекция 1.md",
+    "Mathematics/math/Алгебра и ТензАн",
+    "Mathematics/math/dm test.md",
+    "Mathematics/math"
+  ]
+}
