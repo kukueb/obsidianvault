@@ -1,7 +1,10 @@
 [
+  	{trigger: "gath", replacement: "\\begin{gather}\n$0\n\\end{gather}", options: "mA"},
     {trigger: "^", replacement: "^{$0}$1", options: "mA"},
     {trigger: "unst", replacement: "\\underset{$1}{$0}$2", options: "mA", description: "Replace un{} with underset"},
+    {trigger: "ovst", replacement: "\\overset{$1}{$0}$2", options: "mA"},
     {trigger: "quad", replacement: "\\quad ", options: "mA"},
+    {trigger: "qquad", replacement: "\\qquad ", options: "mA"},
 // 1. Основное правило для индексов (срабатывает по Tab)
     {trigger: /([A-Za-z])([\dijkn]+)/, replacement: "[[0]]_{[[1]]}", options: "rm", description: "Smart subscript on Tab", priority: -1},
 
