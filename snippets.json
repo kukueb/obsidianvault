@@ -1,4 +1,6 @@
 [
+  	{trigger: "sim", replacement: "\\sim", options: "mA"},
+  	{trigger: ".v..", replacement: "\\vdots", options: "mA"},
   	{trigger: "gath", replacement: "\\begin{gather}\n$0\n\\end{gather}", options: "mA"},
     {trigger: "^", replacement: "^{$0}$1", options: "mA"},
     {trigger: "unst", replacement: "\\underset{$1}{$0}$2", options: "mA", description: "Replace un{} with underset"},
