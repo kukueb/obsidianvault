@@ -1,4 +1,7 @@
 [
+  	{trigger: ".d..", replacement: "\\ddots", options: "mA"},
+  	{trigger: "diagon", replacement: "\\begin{pmatrix} $0 \\\\ & $1 \\\\ & & \\ddots \\\\ & & & $2\\end{pmatrix}$3", options: "mA"},
+  	{trigger: "1~~", replacement: "\\underset{\\sim}{1}$0", options: "mA"},
   	{trigger: "sim", replacement: "\\sim", options: "mA"},
   	{trigger: ".v..", replacement: "\\vdots", options: "mA"},
   	{trigger: "gath", replacement: "\\begin{gather}\n$0\n\\end{gather}", options: "mA"},
