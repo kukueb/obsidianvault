@@ -1,4 +1,5 @@
 [
+  	{trigger: "\\leq>", replacement: "\\iff", options: "mA"},
   	{trigger: ".d..", replacement: "\\ddots", options: "mA"},
   	{trigger: "diagon", replacement: "\\begin{pmatrix} $0 \\\\ & $1 \\\\ & & \\ddots \\\\ & & & $2\\end{pmatrix}$3", options: "mA"},
   	{trigger: "1~~", replacement: "\\underset{\\sim}{1}$0", options: "mA"},
