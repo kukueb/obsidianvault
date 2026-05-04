@@ -1,4 +1,13 @@
 [
+  	{trigger: "near", replacement: "\\nearrow ", options: "mA"},
+  	{trigger: "sear", replacement: "\\searrow ", options: "mA"},
+  	{trigger: "clr", replacement: "\\color{$0}{$1} $2", options: "mA"},
+  	{trigger: "big", replacement: "\\Bigg", options: "mA"},
+  	{trigger: "nl", replacement: "\\Bigg|_{$0}^{$1} $2", options: "mA"},
+		{trigger: "lr\int", replacement: "\\left. $0 \\right| $1", options: "mA"},
+  	{trigger: ";;", replacement: "\\; ", options: "mA"},
+  	{trigger: "lmts", replacement: "\\limits_{$0}^{$1}$2", options: "mA"},
+  	{trigger: "bxd", replacement: "\\boxed{$0} $1", options: "mA"},
   	{trigger: "\\leq>", replacement: "\\iff", options: "mA"},
   	{trigger: ".d..", replacement: "\\ddots", options: "mA"},
   	{trigger: "diagon", replacement: "\\begin{pmatrix} $0 \\\\ & $1 \\\\ & & \\ddots \\\\ & & & $2\\end{pmatrix}$3", options: "mA"},
