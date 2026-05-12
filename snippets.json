@@ -1,4 +1,6 @@
 [
+  	{trigger: "ppmat", replacement: "\\left(\n\\begin{array}{}\n$0\n\\end{array}\n\\right) ", options: "mA"},
+  	{trigger: "vvmat", replacement: "\\left|\n\\begin{array}{}\n$0\n\\end{array}\n\\right| ", options: "mA"},
   	{trigger: "near", replacement: "\\nearrow ", options: "mA"},
   	{trigger: "sear", replacement: "\\searrow ", options: "mA"},
   	{trigger: "clr", replacement: "\\color{$0}{$1} $2", options: "mA"},
@@ -279,7 +281,7 @@
 
 	{trigger: "cases", replacement: "\\begin{cases}\n$0\n\\end{cases}", options: "mA"},
 	{trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
-	{trigger: "array", replacement: "\\begin{array}\n$0\n\\end{array}", options: "mA"},
+	{trigger: "array", replacement: "\\begin{array}{}\n$0\n\\end{array}", options: "mA"},
 
 
     // Brackets
